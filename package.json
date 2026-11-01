@@ -1,0 +1,10 @@
+{
+  "name": "subway-rush",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-contained HTML5 endless runner, ready for GitHub Pages.",
+  "scripts": {
+    "test": "node --test engine.test.mjs"
+  }
+}
